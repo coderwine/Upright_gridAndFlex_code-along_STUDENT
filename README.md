@@ -21,3 +21,8 @@ In addition, there are couple resources already built into the HTML for you to e
 This isn't meant to be pretty. We can leave you up to the task to build more into this page as you start gaining more tools in your toolbox. 
 
 This isn't meant to cover everything that these two display properties have available to them.
+
+---
+
+## NOTE!
+As mentioned prior, there is a portion of this project already styled out. **DO NOT** alter this code during the lesson. Feel free to update or play around with it afterwards at your own risk. The ```main.css``` is targeting the same elements that will be updating in ```gridAndFlex.css``` but for different reasons. These were separated so as to not add to any confusion and keep the focus on the ```display``` properties. 
